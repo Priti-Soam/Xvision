@@ -1,0 +1,2 @@
+export const LIKE_PROFILE = 'LIKE_PROFILE'
+export const DISLIKE_PROFILE = 'DISLIKE_PROFILE'
